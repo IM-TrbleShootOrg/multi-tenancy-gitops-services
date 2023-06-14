@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin bash
 NS="b2bi-nonprod"
 # Set variables
 if [[ -z ${B2B_DB_SECRET} ]]; then

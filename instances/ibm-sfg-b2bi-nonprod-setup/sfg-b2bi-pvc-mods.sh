@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 
 NS="b2bi-nonprod"
 RWX_STORAGECLASS=${RWX_STORAGECLASS:-managed-nfs-storage}

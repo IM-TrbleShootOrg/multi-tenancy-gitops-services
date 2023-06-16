@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Set enviroment variables
 # Declaring IBM SFG PROD
 
